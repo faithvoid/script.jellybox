@@ -1,0 +1,8 @@
+<settings>
+    <category label="General">
+        <setting type="lsep" label="Jellyfin Settings" />
+        <setting id="server_url" type="text" label="Server URL" default="http://your-jellyfin-server:8096"/>
+        <setting id="username" type="text" label="Username" default=""/>
+        <setting id="password" type="text" label="Password" option="hidden" default=""/>
+    </category>
+</settings>
