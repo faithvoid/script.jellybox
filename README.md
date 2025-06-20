@@ -5,7 +5,7 @@
   <strong>Movies</strong>
 </p>
 <p align="center">
-  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/tv" alt="TV Shows" /><br>
+  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/tv.jpg" alt="TV Shows" /><br>
   <strong>TV Shows</strong>
 </p>
 <p align="center">
