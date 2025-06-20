@@ -1,10 +1,16 @@
 # Jellybox - Jellyfin client for XBMC4Xbox / XBMC4Gamers
-![Movies](screenshots/movies.jpg)
-Movies
-![2](screenshots/tv.jpg)
-TV (Episodes View)
-![3](screenshots/nowplaying.jpg)
-Now Playing
+<p align="center">
+  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/movies.jpg" alt="Main" /><br>
+  <strong>Movies</strong>
+</p>
+<p align="center">
+  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/shows.jpg" alt="Main" /><br>
+  <strong>TV Shows</strong>
+</p>
+<p align="center">
+  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/nowplaying.jpg" alt="Main" /><br>
+  <strong>Now Playing</strong>
+</p>
 
 ## How to Use:
 - Make sure you have Jellyfin installed and set up with your ideal transcoding settings on your host PC!
