@@ -1,14 +1,15 @@
 # Jellybox - Jellyfin client for XBMC4Xbox / XBMC4Gamers
+
 <p align="center">
-  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/movies.jpg" alt="Main" /><br>
+  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/movies.jpg" alt="Movies" /><br>
   <strong>Movies</strong>
 </p>
 <p align="center">
-  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/shows.jpg" alt="Main" /><br>
+  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/tv" alt="TV Shows" /><br>
   <strong>TV Shows</strong>
 </p>
 <p align="center">
-  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/nowplaying.jpg" alt="Main" /><br>
+  <img src="https://github.com/faithvoid/script.jellybox/blob/main/screenshots/nowplaying.jpg" alt="Now Playing" /><br>
   <strong>Now Playing</strong>
 </p>
 
